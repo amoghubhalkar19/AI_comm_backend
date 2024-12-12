@@ -1,0 +1,9 @@
+moviepy==1.0.3
+librosa==0.10.0
+numpy==1.23.0
+transformers==4.30.0
+torchaudio==2.2.0
+gentle==0.0.0
+language-tool-python==2.7.0
+re==2.2.1
+json==2.0.9
